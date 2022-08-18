@@ -1,0 +1,128 @@
+.nav-item a{
+    color: white;
+}
+ nav .nav-tag{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.slide-img{
+    width: 100%;
+    height: 400px;
+    background-color: transparent; background-color: transparent;
+}
+/* =======================slider================ */
+.carousel-item{
+    height: 400px;
+    background-color: gray;
+    background-image: none;
+}
+.carousel-left{
+    text-align: left;
+}
+.carousel-right{
+    text-align: right;
+}
+
+
+/* ==================card-section============ */
+
+.card-section{
+    /* margin-top: 40x;
+    margin-bottom: 40px; */
+    /* background-color: aliceblue; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card{
+    text-align: center;
+}
+.btn{
+background-color: gray;
+color: white;
+}
+.line{
+    /* padding-top: 40px; */
+}
+
+/* ================section1======== */
+.section1{
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+    /* background-color: aliceblue; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.header-left{
+    display: block;
+    padding-top: 70PX;
+}
+.head-tag{
+    color:gray;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.headtag-bold{
+    color: rgb(86, 84, 84);
+}
+
+.head-para{
+    color: rgb(58, 55, 55);
+    font-size: 20px;
+}
+
+.box{
+    
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.header-right{
+    height: 400px;
+    background-color: rgb(156, 154, 154);
+}
+
+
+/* =========================footer=================== */
+
+.footer{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+    
+}
+.footer-tag{
+    
+    position: absolute;
+    top: 40px;
+    right: 0;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
